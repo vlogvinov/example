@@ -1,0 +1,11 @@
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\nunit.framework.dll
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\WebDriver.dll
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\nunit.framework.pdb
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\nunit.framework.xml
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\bin\Debug\WebDriver.xml
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\v.logvinov\Example\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
